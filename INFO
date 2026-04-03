@@ -1,0 +1,10 @@
+Name: OpenWrt-LuCI-Syslog
+Version: 1
+Summary: Tactical CLI tool to fetch syslogs from OpenWrt LuCI routers
+Home-page: https://github.com/u0x137
+Author: u0x137
+Author-email: UNKNOWN
+License: LICENSE
+Description: UNKNOWN
+Keywords: openwrt,luci,syslog,router,cli,security
+Platform: UNKNOWN
